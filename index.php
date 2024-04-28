@@ -27,7 +27,7 @@
                     <div class="card-content">
                         <div class="row">
                             <p>El juego de Picas y Fijas es un desafío de adivinanzas en el que se genera un número secreto de cuatro dígitos por parte del sistema. El objetivo del jugador es descubrir este número oculto. En cada intento, el jugador propone un número de cuatro dígitos, y el sistema le proporciona pistas sobre su aproximación al número secreto, indicando cuántas "picas" y cuántas "fijas" contiene el número ingresado.<br>
-                                Una "pica" señala que un dígito del número propuesto está presente en el número secreto, pero en una posición incorrecta. Por otro lado, una "fija" indica que un dígito del número propuesto coincide tanto en valor como en posición con el número secreto.<br></p>
+                            Una "pica" señala que un dígito del número propuesto está presente en el número secreto, pero en una posición incorrecta. Por otro lado, una "fija" indica que un dígito del número propuesto coincide tanto en valor como en posición con el número secreto.<br></p>
                         </div>
                         <div class="row">
                             <form class="col s12" id="formGame">
